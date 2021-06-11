@@ -21,7 +21,7 @@ import pages.Login;
 
 public class DemoSiteUKTest {
 	
-	static WebDriver driver;
+	private static WebDriver driver;
 	
 	
 	@BeforeClass
